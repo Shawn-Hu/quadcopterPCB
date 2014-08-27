@@ -1,0 +1,334 @@
+Protel Synchronization report
+=========================================================================
+Date : 15-Jul-2012
+Time : 12:44:45
+
+Reference document: Documents\main_board.Sch
+Target document:    Documents\main_board.PCB
+=========================================================================
+
+ERRORS: 23 macros can not be executed:
+-------------------------------------------------------------------------
+Macro 1: Component Footprint Change
+Update component Q13 footprint SOT-23 to 3400
+Error: New footprint 3400 not matching old footprint SOT-23
+
+Macro 2: Component Footprint Change
+Update component Q23 footprint SOT-23 to SOT23
+Error: New footprint SOT23 not matching old footprint SOT-23
+
+Macro 3: Component Footprint Change
+Update component Q4 footprint SOT-23 to SOT23
+Error: New footprint SOT23 not matching old footprint SOT-23
+
+Macro 4: Component Footprint Change
+Update component Q5 footprint SOT-23 to SOT23
+Error: New footprint SOT23 not matching old footprint SOT-23
+
+Macro 5: New Node
+Add node Q23-3 to net GND
+Error: Node not found
+
+Macro 6: New Node
+Add node Q13-3 to net GND
+Error: Node not found
+
+Macro 7: New Node
+Add node Q10-3 to net GND
+Error: Node not found
+
+Macro 8: New Node
+Add node Q8-1 to net PA10
+Error: Node not found
+
+Macro 9: New Node
+Add node Q9-3 to net VCC7.4
+Error: Node not found
+
+Macro 10: New Node
+Add node Q8-3 to net VCC7.4
+Error: Node not found
+
+Macro 11: New Node
+Add node Q23-1 to net PA11
+Error: Node not found
+
+Macro 12: New Node
+Add node Q9-1 to net PA11
+Error: Node not found
+
+Macro 13: New Node
+Add node Q10-1 to net NetMG3_2
+Error: Node not found
+
+Macro 14: New Node
+Add node Q13-1 to net NetMG4_2
+Error: Node not found
+
+Macro 15: New Node
+Add node Q10-2 to net NetQ20_2
+Error: Node not found
+
+Macro 16: New Node
+Add node Q12-2 to net NetQ12_2
+Error: Node not found
+
+Macro 17: New Node
+Add node Q11-2 to net NetQ12_2
+Error: Node not found
+
+Macro 18: New Node
+Add node Q12-1 to net NetQ12_1
+Error: Node not found
+
+Macro 19: New Node
+Add node Q11-1 to net NetQ12_1
+Error: Node not found
+
+Macro 20: New Node
+Add node Q12-3 to net NetQ12_3
+Error: Node not found
+
+Macro 21: New Node
+Add node Q11-3 to net NetQ12_3
+Error: Node not found
+
+Macro 22: New Node
+Add node Q8-2 to net NetQ22_2
+Error: Node not found
+
+Macro 23: New Node
+Add node Q23-2 to net NetQ23_2
+Error: Node not found
+
+
+
+57 macros to be executed:
+-------------------------------------------------------------------------
+Macro 1: Redundant Node
+Remove node Q2-1 from net PA8
+
+
+Macro 2: Redundant Node
+Remove node Q2-2 from net VCC7.4
+
+
+Macro 3: Redundant Net
+Remove redundant net NetQ8_2
+
+
+Macro 4: Redundant Net
+Remove redundant net NetQ5_2
+
+
+Macro 5: Redundant Net
+Remove redundant net NetQ4_2
+
+
+Macro 6: Redundant Net
+Remove redundant net NetQ2_3
+
+
+Macro 7: Redundant Component
+Remove redundant component Q10
+
+
+Macro 8: Redundant Component
+Remove redundant component Q24
+
+
+Macro 9: Redundant Component
+Remove redundant component Q8
+
+
+Macro 10: Component Designator Change
+Rename component designator Q9 to Q10
+
+
+Macro 11: Component Designator Change
+Rename component designator Q4 to Q8
+
+
+Macro 12: Component Designator Change
+Rename component designator Q5 to Q9
+
+
+Macro 13: Component Designator Change
+Rename component designator Q2 to Q7
+
+
+Macro 14: Component Designator Change
+Rename component designator Q3 to Q20
+
+
+Macro 15: New Component
+Add new component D1
+
+
+Macro 16: New Component
+Add new component D2
+
+
+Macro 17: New Component
+Add new component Q18
+
+
+Macro 18: New Component
+Add new component Q19
+
+
+Macro 19: New Component
+Add new component Q21
+
+
+Macro 20: New Component
+Add new component Q22
+
+
+Macro 21: New Component
+Add new component Q3
+
+
+Macro 22: Net Name Change
+Rename net name NetQ10_1 to NetMG4_2
+
+
+Macro 23: Net Name Change
+Rename net name NetQ11_1 to NetMG5_2
+
+
+Macro 24: Net Name Change
+Rename net name NetQ12_1 to NetMG6_2
+
+
+Macro 25: New Net
+Add new net NetQ20_2
+
+
+Macro 26: New Net
+Add new net NetQ12_2
+
+
+Macro 27: New Net
+Add new net NetQ12_1
+
+
+Macro 28: New Net
+Add new net NetQ12_3
+
+
+Macro 29: New Net
+Add new net NetQ21_2
+
+
+Macro 30: New Net
+Add new net NetQ22_2
+
+
+Macro 31: New Net
+Add new net NetQ23_2
+
+
+Macro 32: New Node
+Add node D1-2 to net GND
+
+
+Macro 33: New Node
+Add node D2-2 to net GND
+
+
+Macro 34: New Node
+Add node Q19-3 to net GND
+
+
+Macro 35: New Node
+Add node Q18-3 to net GND
+
+
+Macro 36: New Node
+Add node Q22-3 to net GND
+
+
+Macro 37: New Node
+Add node Q21-3 to net GND
+
+
+Macro 38: New Node
+Add node Q7-1 to net PA9
+
+
+Macro 39: New Node
+Add node Q3-1 to net PA8
+
+
+Macro 40: New Node
+Add node Q7-3 to net VCC7.4
+
+
+Macro 41: New Node
+Add node Q3-3 to net VCC7.4
+
+
+Macro 42: New Node
+Add node D2-1 to net NetR3_2
+
+
+Macro 43: New Node
+Add node D1-1 to net NetR2_2
+
+
+Macro 44: New Node
+Add node Q18-1 to net NetMG5_2
+
+
+Macro 45: New Node
+Add node Q19-1 to net NetMG6_2
+
+
+Macro 46: New Node
+Add node Q20-2 to net NetQ20_2
+
+
+Macro 47: New Node
+Add node Q3-2 to net NetQ20_2
+
+
+Macro 48: New Node
+Add node Q21-2 to net NetQ21_2
+
+
+Macro 49: New Node
+Add node Q7-2 to net NetQ21_2
+
+
+Macro 50: New Node
+Add node Q22-2 to net NetQ22_2
+
+
+Macro 51: New Node
+Add node Q19-2 to net NetQ23_2
+
+
+Macro 52: Component Comment Change
+Update component Q13 comment NPN to MOSFET N
+
+
+Macro 53: Component Comment Change
+Update component Q23 comment NPN to PNP
+
+
+Macro 54: Component Comment Change
+Update component Q4 comment PNP to NPN
+
+
+Macro 55: Component Comment Change
+Update component Q5 comment PNP to NPN
+
+
+Macro 56: Component Comment Change
+Update component Q2 comment PNP to NPN
+
+
+Macro 57: Add Component Class
+Add Component Class (main_board)
+

@@ -1,0 +1,24 @@
+Protel Synchronization report
+=========================================================================
+Date : 15-Jul-2012
+Time : 12:48:48
+
+Reference document: Documents\main_board.Sch
+Target document:    Documents\main_board.PCB
+=========================================================================
+
+ERRORS: 3 macros can not be executed:
+-------------------------------------------------------------------------
+Macro 1: New Component
+Add new component S8
+Error: Footprint SWITCH_3_6 not found in library
+
+Macro 2: New Node
+Add node S8-1 to net NetR6_1
+Error: Component not found
+
+Macro 3: New Node
+Add node S8-2 to net GND
+Error: Component not found
+
+

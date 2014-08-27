@@ -1,0 +1,13 @@
+Protel Synchronisation warnings report
+=========================================================================
+Date : 15-Jul-2012
+Time : 12:47:57
+
+Reference document: Documents\main_board.Sch
+Target document:    Documents\main_board.PCB
+=========================================================================
+
+MISSING FOOTPRINTS
+=========================================================================
+Q12 MOSFET N
+Q11 MOSFET N
